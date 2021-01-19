@@ -22,4 +22,22 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
-Every person who works with data has to perform analytics at some point. This popular training course—dramatically expanded and enhanced for 2018—teaches analysts and non-analysts alike the basics of data analytics and reporting. Robin Hunt defines what data analytics is and what data analysts do. She then shows how to identify your data set—including the data you don't have—and interpret and summarize data. She also shows how to perform specialized tasks such as creating workflow diagrams, cleaning data, and joining data sets for reporting. Coverage continues with best practices for data analytics projects, such as verifying data and conducting effective meetings, and common mistakes to avoid. Then learn techniques for repurposing, charting, and pivoting data. Plus, get helpful productivity-enhancing shortcuts and troubleshooting tips for the most popular data analytics program, Microsoft Excel.
+- Every person who works with data has to perform analytics at some point. This popular training course—dramatically expanded and enhanced for 2018—teaches **analysts and non-analysts** alike the basics of data analytics and reporting. 
+
+- **Robin Hunt ** defines what data analytics is and what data analysts do. She then shows how to **identify your data** set—including the data you don't have—and interpret and summarize data. 
+
+
+- She also shows how to perform specialized tasks such as **creating workflow diagrams, cleaning data, and joining data sets for reporting.**
+
+
+
+- Coverage continues with best practices for data analytics projects, such as verifying data and conducting effective meetings, and common mistakes to avoid. Then learn techniques for repurposing, charting, and pivoting data. Plus, get helpful productivity-enhancing shortcuts and troubleshooting tips for the most popular data analytics program, Microsoft Excel.
+
+
+
+### I studied many function such as :
+
+
+
+
+
