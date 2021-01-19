@@ -17,7 +17,7 @@ Data analysts examine information using data analysis tools and help their teams
 .
 
 
-## - First course : [Learning Data Analytics1. ](https://www.linkedin.com/learning/learning-data-analytics-2/learning-to-interpret-existing-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+## First course : [Learning Data Analytics1. ](https://www.linkedin.com/learning/learning-data-analytics-2/learning-to-interpret-existing-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
 
