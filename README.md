@@ -38,6 +38,11 @@ Data analysts examine information using data analysis tools and help their teams
 ### I studied many function such as :
 
 
+- If statment with ISBLANK Condition.
+
+- 
+
+
 
 
 
