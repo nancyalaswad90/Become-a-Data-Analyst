@@ -40,7 +40,12 @@ Data analysts examine information using data analysis tools and help their teams
 
 - If statment with ISBLANK Condition.
 
-- 
+- Concatenate 
+
+- Convert for data type.
+
+
+
 
 
 
