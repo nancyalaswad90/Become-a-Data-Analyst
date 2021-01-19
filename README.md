@@ -46,6 +46,12 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
+### Syntax 
+
+Syntax : refer to the spelling and grammar of a programming language.
+
+
+
 
 
 
