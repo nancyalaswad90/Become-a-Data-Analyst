@@ -47,4 +47,4 @@ Types of cleaning:
 Begin descripe each steps I made when creating the report and insert the workflow screenshots by using **Screensht** as in image below
 
 
-
+> ## ![image](https://user-images.githubusercontent.com/36210723/105223697-ca128280-5b64-11eb-81a8-3bd64eaf5d4a.png)
