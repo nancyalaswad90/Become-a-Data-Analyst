@@ -48,3 +48,13 @@ Begin descripe each steps I made when creating the report and insert the workflo
 
 
 > ## ![image](https://user-images.githubusercontent.com/36210723/105223697-ca128280-5b64-11eb-81a8-3bd64eaf5d4a.png)
+
+
+
+- We can also explore our formula by **Show formulas**
+
+
+![image](https://user-images.githubusercontent.com/36210723/105224020-4ad17e80-5b65-11eb-98c6-c185d8caf556.png)
+
+
+
