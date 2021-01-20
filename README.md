@@ -52,6 +52,13 @@ Syntax : refer to the spelling and grammar of a programming language.
 
 
 
+### In Access 
+
+
+I know about :
+
+- Dictionary : Database tools --Analys section --- database documenter
+
 
 
 
