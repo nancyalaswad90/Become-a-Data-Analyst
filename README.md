@@ -48,18 +48,18 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
-### * Syntax 
+###  Syntax 
 
 Syntax : refer to the spelling and grammar of a programming language.
 
 
 
-### * In Access 
+###  In Access 
 
 
 I know about :
 
-- Dictionary : To explore our data we make ---::  Database tools --Analys section --- database documenter 
+- Dictionary : To explore our data we make, know user  ---::  Database tools --Analys section --- database documenter 
 
 
 
