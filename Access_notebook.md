@@ -44,4 +44,7 @@ Types of cleaning:
 2.	I delete column x
 
 
-Begin descripe each steps I made when creating the report
+Begin descripe each steps I made when creating the report and insert the workflow screenshots by using **Screensht** as in image below
+
+
+
