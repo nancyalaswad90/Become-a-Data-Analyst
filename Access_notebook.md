@@ -7,6 +7,11 @@
 I know about :
 
 
+###  Syntax 
+
+Syntax : refer to the spelling and grammar of a programming language.
+
+
 
 
 ## Dictionary :  Database tools --Analys section --- database documenter 
