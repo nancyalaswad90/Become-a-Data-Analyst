@@ -35,33 +35,6 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
-### I studied many function such as :
-
-
-- If statment with ISBLANK Condition.
-
-- Concatenate 
-
-- Convert for data type.
-
-
-
-
-
-###  Syntax 
-
-Syntax : refer to the spelling and grammar of a programming language.
-
-
-
-###  [In Access ](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path/blob/main/Access_notebook)
-
-
-I know about :
-
-- Dictionary : To explore our data we make, know user  ---::  Database tools --Analys section --- database documenter 
-
-
 
 
 
