@@ -42,3 +42,6 @@ Types of cleaning:
 
 1.	I move columns
 2.	I delete column x
+
+
+Begin descripe each steps I made when creating the report
