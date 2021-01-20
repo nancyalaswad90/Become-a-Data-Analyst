@@ -57,7 +57,7 @@ Syntax : refer to the spelling and grammar of a programming language.
 
 I know about :
 
-- Dictionary : Database tools --Analys section --- database documenter
+- Dictionary : To explore our data we make ---::  Database tools --Analys section --- database documenter 
 
 
 
