@@ -35,6 +35,8 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
+ --->  ![11111](https://user-images.githubusercontent.com/36210723/105284818-e4c41600-5bbb-11eb-8dcf-e55653426da3.png)
+
 
 
 
