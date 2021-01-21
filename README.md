@@ -44,6 +44,6 @@ Data analysts examine information using data analysis tools and help their teams
 .
 
 
-
+- [Secnd ](file:///C:/Users/USER/Downloads/CertificateOfCompletion_Learning%20Data%20Analytics%20(1).pdf)
 
  --->  ![2222](https://user-images.githubusercontent.com/36210723/105285874-eb538d00-5bbd-11eb-80e0-0985530b9284.png)
