@@ -30,3 +30,8 @@
 
 
 - Make the replace window to show the impact in the other application programe
+
+
+- Make some pivote tables
+
+
