@@ -35,3 +35,8 @@
 - Make some pivote tables
 
 
+
+- Make Pivote table and modify it by using  ( cell format)
+
+
+- Make **Slicer**: to give them nice filter ....From Analyze tab we use slicer for all available field
