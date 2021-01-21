@@ -35,6 +35,10 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
+
+
+- First Certification
+
  --->  ![11111](https://user-images.githubusercontent.com/36210723/105284818-e4c41600-5bbb-11eb-8dcf-e55653426da3.png)
 
 
@@ -44,6 +48,7 @@ Data analysts examine information using data analysis tools and help their teams
 .
 
 
-- [Secnd ](file:///C:/Users/USER/Downloads/CertificateOfCompletion_Learning%20Data%20Analytics%20(1).pdf)
+- Second Certification 
+
 
  --->  ![2222](https://user-images.githubusercontent.com/36210723/105285874-eb538d00-5bbd-11eb-80e0-0985530b9284.png)
