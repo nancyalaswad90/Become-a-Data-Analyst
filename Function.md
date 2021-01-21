@@ -53,3 +53,15 @@
 
 ## Name and Selecting my data :
 
+
+- Formula tab.. Name manager :  so we have a list of all names in table 
+
+
+- split text with delimiters :  copy and  paste required  column   then from Data tab we use text to columns then use the required delimiter
+
+
+- Removing duplicate  :  Data tab .. remove duplicate
+
+
+- Transposing data 
+
