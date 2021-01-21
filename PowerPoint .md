@@ -15,5 +15,5 @@
 - we can use the chart and make **right click** to pen the data in excel sheet , in this way we recall the embedded data 
 
 
-- Using **F11** to build default chart thtat we save it as ** templete.**
+- Using **F11** to build default chart thtat we save it as **templete.**, we maKE Templete 
 
