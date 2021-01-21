@@ -27,3 +27,6 @@
 
 
 >  ## ![image](https://user-images.githubusercontent.com/36210723/105228546-5627a880-5b6b-11eb-82e4-e816a8def61f.png)
+
+
+- Make the replace window to show the impact in the other application programe
