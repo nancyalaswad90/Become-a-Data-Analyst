@@ -42,4 +42,11 @@
 - Make **Slicer**: to give them nice filter ....From Analyze tab we use slicer for all available field (( sure when use ctl key  we can have multp;e fields)).
 
 
+- Use Frame time with slicer --- analyze tab ..insert timelines so we can have time filter as below
+
+
+![time filter](https://user-images.githubusercontent.com/36210723/105281855-b5aaa600-5bb5-11eb-8595-0b8070f24044.png)
+
+
+
 
