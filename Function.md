@@ -39,4 +39,7 @@
 - Make Pivote table and modify it by using  ( cell format)
 
 
-- Make **Slicer**: to give them nice filter ....From Analyze tab we use slicer for all available field
+- Make **Slicer**: to give them nice filter ....From Analyze tab we use slicer for all available field (( sure when use ctl key  we can have multp;e fields)).
+
+
+
