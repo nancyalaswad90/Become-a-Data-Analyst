@@ -17,7 +17,7 @@ Data analysts examine information using data analysis tools and help their teams
 .
 
 
-## First course : [Learning Data Analytics1. ](https://www.linkedin.com/learning/learning-data-analytics-2/learning-to-interpret-existing-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+> ## First course : [Learning Data Analytics1. ](https://www.linkedin.com/learning/learning-data-analytics-2/learning-to-interpret-existing-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
 
@@ -66,7 +66,10 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
-## Second course : [Data Fluency: Exploring and Describing Data](https://www.linkedin.com/learning/data-fluency-exploring-and-describing-data/gather-greater-insight-and-make-better-decisions-with-your-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+> ## Second course : [Data Fluency: Exploring and Describing Data](https://www.linkedin.com/learning/data-fluency-exploring-and-describing-data/gather-greater-insight-and-make-better-decisions-with-your-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+
+
+
 
 
 
@@ -74,11 +77,21 @@ Data analysts examine information using data analysis tools and help their teams
 ### Course details
 
 
+
+
+
 Data analysis isn’t just for specialists who need to make sense of massive datasets. Decision-makers in every industry can benefit from a basic understanding of the goals and concepts of applied data analysis. In this course, join Barton Poulson as he focuses on the fundamentals of data fluency, or the ability to work with data to extract insights and determine your next steps. Barton shows how exploring data with graphs and describing data with statistics can help you reach your goals and make better decisions. Instead of focusing on particular tools, he concentrates on general procedures that can help you solve specific problems. Find out how to prepare data, explore it visually, and use statistical methods to describe it.
 
 
 
+
+.
+
+
 ### Learning objectives
+
+
+
 
 
 - The ROI of data fluency
@@ -101,6 +114,10 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 - Describing associations with correlations
 
+
+
+
+.
 
 
 
