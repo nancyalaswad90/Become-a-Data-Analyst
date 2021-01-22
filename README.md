@@ -52,3 +52,12 @@ Data analysts examine information using data analysis tools and help their teams
 
 
  --->  ![2222](https://user-images.githubusercontent.com/36210723/105285874-eb538d00-5bbd-11eb-80e0-0985530b9284.png)
+
+
+
+
+
+
+
+
+## First course : [Data Fluency: Exploring and Describing Data](https://www.linkedin.com/learning/data-fluency-exploring-and-describing-data/gather-greater-insight-and-make-better-decisions-with-your-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
