@@ -79,13 +79,27 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 ### Learning objectives
-The ROI of data fluency
-Data ethics
-Preparing data
-Assessing the quality of data
-Visualizing data with bar, pie, and line charts
-Describing variability with the variance and standard deviation
-Describing associations with correlations
+
+
+- The ROI of data fluency
+
+
+- Data ethics
+
+
+- Preparing data
+
+
+- Assessing the quality of data
+
+
+- Visualizing data with bar, pie, and line charts
+
+
+- Describing variability with the variance and standard deviation
+
+
+- Describing associations with correlations
 
 
 
