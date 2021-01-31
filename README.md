@@ -120,4 +120,6 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 .
 
 
+> ## Third course : [Data Fluency: Exploring and Describing Data](https://www.linkedin.com/learning/data-fluency-exploring-and-describing-data/gather-greater-insight-and-make-better-decisions-with-your-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+
 
