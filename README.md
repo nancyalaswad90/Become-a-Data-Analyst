@@ -143,7 +143,7 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 
-> ##  course : [ 
+> ## Fifth course: [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-3/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
 
