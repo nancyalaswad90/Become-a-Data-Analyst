@@ -152,15 +152,13 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 
-> ##  course : [ 
+> ##  Sixth  course : [Power BI Essential Training](https://www.linkedin.com/learning/power-bi-essential-training-3/create-rich-interactive-reports-with-power-bi?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
 
-> ##  course : [ 
+.
 
 
 
-> ##  course : [ 
-> ##  course : [ 
-> ##  course : [ 
-> ##  course : [ 
+> ##  Seventh course : [Tableau Essential Training (2020.1)](https://www.linkedin.com/learning/tableau-essential-training-2020-1/apply-the-power-of-tableau-2020-to-your-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+
