@@ -132,7 +132,7 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 
-> ##  course : [ 
+> ## Fourth course : [Learning Excel: Data Analysis](https://www.linkedin.com/learning/learning-excel-data-analysis/the-power-of-data-analysis-using-excel?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
 
