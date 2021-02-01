@@ -122,3 +122,45 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 > ## Third course : [Excel Statistics Essential Training: 1](https://www.linkedin.com/learning/excel-statistics-essential-training-1-2/understanding-excel-statistics-functions?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
+
+
+
+
+.
+
+
+
+
+
+> ##  course : [ 
+
+
+
+
+
+
+.
+
+
+
+> ##  course : [ 
+
+
+
+
+.
+
+
+
+> ##  course : [ 
+
+
+
+> ##  course : [ 
+
+
+
+> ##  course : [ 
+> ##  course : [ 
+> ##  course : [ 
+> ##  course : [ 
