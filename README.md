@@ -5,7 +5,7 @@
 # [Become a Data Analyst](https://www.linkedin.com/learning/paths/become-a-data-analyst)
 
 
-# > ![data.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612272573/data.png)
+# > ![data.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612272683/data.png)
 
 
 
