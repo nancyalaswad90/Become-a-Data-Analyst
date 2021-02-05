@@ -110,7 +110,18 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 
+
+## The Certification 
+
+
+
+  > ![Data Fluency Exploring and Describing Data.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612555066/Data_Fluency_Exploring_and_Describing_Data.png)
+
+
 .
+
+------------------------------------
+
 
 
 > ## Third course : [Excel Statistics Essential Training: 1](https://www.linkedin.com/learning/excel-statistics-essential-training-1-2/understanding-excel-statistics-functions?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
