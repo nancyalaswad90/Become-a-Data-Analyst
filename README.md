@@ -44,12 +44,12 @@ Data analysts examine information using data analysis tools and help their teams
 ## The Certification 
 
 
- --->  ![2222](https://user-images.githubusercontent.com/36210723/105285874-eb538d00-5bbd-11eb-80e0-0985530b9284.png)
 
 
 
 
-![111111111111](https://user-images.githubusercontent.com/36210723/107838665-94ea0080-6daf-11eb-81cc-bdf11d37fa1c.png)
+
+> ![111111111111](https://user-images.githubusercontent.com/36210723/107838665-94ea0080-6daf-11eb-81cc-bdf11d37fa1c.png)
 .
 
 
@@ -117,9 +117,9 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 
-![22222222222222222](https://user-images.githubusercontent.com/36210723/107838614-68ce7f80-6daf-11eb-9ad9-5312799f50c1.png)
+> ![22222222222222222](https://user-images.githubusercontent.com/36210723/107838614-68ce7f80-6daf-11eb-9ad9-5312799f50c1.png)
 
-  > ![Data Fluency Exploring and Describing Data.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612555066/Data_Fluency_Exploring_and_Describing_Data.png)
+
 
 
 .
