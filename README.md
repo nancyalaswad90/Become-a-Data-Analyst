@@ -127,6 +127,9 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 > ## Third course : [Excel Statistics Essential Training: 1](https://www.linkedin.com/learning/excel-statistics-essential-training-1-2/understanding-excel-statistics-functions?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
+.
+
+> ![Excel Statistics Essential Training](https://user-images.githubusercontent.com/36210723/107838534-ee9dfb00-6dae-11eb-9956-af9ee9fc94e9.png)
 
 
 
@@ -139,6 +142,11 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 > ## Fourth course : [Learning Excel: Data Analysis](https://www.linkedin.com/learning/learning-excel-data-analysis/the-power-of-data-analysis-using-excel?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
+.
+
+
+> ![Learning Excel_ Data Analysis](https://user-images.githubusercontent.com/36210723/107838530-eb0a7400-6dae-11eb-9165-365e26b03ba4.png)
+
 
 
 
@@ -150,6 +158,9 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 > ## Fifth course: [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-3/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
+.
+
+> ![Learning Data Visualization](https://user-images.githubusercontent.com/36210723/107838532-ec3ba100-6dae-11eb-919e-0be1c30c0df4.png)
 
 
 .
@@ -162,7 +173,20 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 .
 
+> ![Power BI Essential Training](https://user-images.githubusercontent.com/36210723/107838529-e645c000-6dae-11eb-98c9-0d66909bbaaa.png)
+
+
+.
+
 
 
 > ##  Seventh course : [Tableau Essential Training (2020.1)](https://www.linkedin.com/learning/tableau-essential-training-2020-1/apply-the-power-of-tableau-2020-to-your-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
+
+
+
+
+> ![Tableau Essential Training](https://user-images.githubusercontent.com/36210723/107838528-e5149300-6dae-11eb-825c-61511772f544.png)
+
+
+.
