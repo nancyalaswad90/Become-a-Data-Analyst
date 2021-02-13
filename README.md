@@ -48,6 +48,7 @@ Data analysts examine information using data analysis tools and help their teams
 
 
 
+![22222222222222222](https://user-images.githubusercontent.com/36210723/107838614-68ce7f80-6daf-11eb-9ad9-5312799f50c1.png)
 
 .
 
@@ -112,6 +113,9 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 ## The Certification 
+
+
+![111111111111](https://user-images.githubusercontent.com/36210723/107838665-94ea0080-6daf-11eb-81cc-bdf11d37fa1c.png)
 
 
 
