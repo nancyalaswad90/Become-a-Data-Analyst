@@ -232,10 +232,34 @@ Data isn’t valuable until you put it to good use. Statistics transforms data i
 
 ## Course details
 
+
+Microsoft Excel is an important tool for data analysis. It helps companies accurately assess situations and make better business decisions. This course helps you unlock the power of your organization's data using the data analysis and visualization tools built into Excel. Author Curt Frye starts with the foundational concepts, including basic calculations such as mean, median, and standard deviation, and provides an introduction to the central limit theorem. He then shows how to visualize data, relationships, and future results with Excel's histograms, graphs, and charts. He also covers testing hypotheses, modeling different data distributions, and calculating the covariance and correlation between data sets. Finally, he reviews the process of calculating Bayesian probabilities in Excel. Each chapter includes practical examples that show how to apply the techniques to real-world business problems.
+
+
+
+
 ## Learning objectives
 
 
+- Distinguish between the mean, median, and mode.
+
+- Describe the relationship between variance and standard deviation.
+
+- Identify a nondirectional hypothesis.
+
+- Point out the difference between COVARIANCE.P and COVARIANCE.S.
+
+- Explain correlation.
+
+- Analyze Bayes’ rule.
+
+
+
 ## Skills covered
+
+- Data Analysis
+
+- Microsoft Excel
 
 
 .
