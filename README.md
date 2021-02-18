@@ -396,12 +396,36 @@ Discover how to quickly glean insights from your data using Power BI. This formi
 
 ## Course details
 
+
+
+Tableau is a widely used data analytics and visualization tool that many consider indispensable for data-science-related work. Its drag-and-drop interface makes it easy to sort, compare, and analyze data from multiple sources, including Excel, SQL Server, and cloud-based data repositories. In this course, learn what you need to know to analyze and display data using Tableau 2020—and make better, more data-driven decisions for your company. Discover how to install Tableau, connect to data sources, and sort and filter your data. Instructor Curt Frye also demonstrates how to create and manipulate data visualizations—including highlight tables, charts, scatter plots, histograms, maps, and dashboards—and shows how to share your visualizations. Along the way, he highlights the new features packed into this edition of the software, including Viz Animations, which allows you to visually follow the movement of marks in a data visualization to see and understand your changing data.
+
+
+
 ## Learning objectives
+
+
+- Explain where a user would navigate to seek specific help in Tableau.
+
+- Determine the best approach for using Excel in Tableau.
+
+- Interpret how to use the features and functions of Tableau when creating charts.
+
+- Describe how best to manage data in a worksheet or visualization.
+
+- Explain how to create a selection filter for certain values.
+
+- Explain how to manage data for different chart formats.
 
 
 ## Skills covered
 
 
+- Tableau
+
+- Data Analytics
+
+- Data Visualization
 
 
 > ![Tableau Essential Training](https://user-images.githubusercontent.com/36210723/107838528-e5149300-6dae-11eb-825c-61511772f544.png)
