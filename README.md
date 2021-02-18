@@ -179,12 +179,34 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 ## Course details
 
+
+Data isn’t valuable until you put it to good use. Statistics transforms data into meaningful information, enabling organizations to make better decisions and predictions. That’s why statistics—collecting, analyzing, and presenting data—is a valuable skill for anyone in business or academia. In this course, Joseph Schmuller teaches the fundamentals of descriptive and inferential statistics and shows you how to apply them in Microsoft Excel—an inexpensive and accessible application that offers an array of powerful statistical tools. Using the built-in functions, and charts, along with the Analysis Toolpak add-on, Joe explains how to organize and present data, understand sampling distributions, test hypotheses, and draw conclusions. He covers probabilities, averages, variability, distribution, estimation, variance, regression testing, and more. By the end of the course, you should be able to fully understand and apply basic statistical concepts to a wide variety of data.
+
+
+
+
 ## Learning objectives
+
+
+- Explain how to calculate simple probability.
+
+- Review the Excel statistical formulas for finding mean, median, and mode.
+
+- Differentiate statistical nomenclature when calculating variance.
+
+- Identify components when graphing frequency polygons.
+
+- Explain how t-distributions operate.
+
+- Describe the process of determining a chi-square.
+
 
 
 ## Skills covered
 
-
+- Microsoft Excel
+ 
+- Statistical Data Analysis
 
 
 
