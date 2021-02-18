@@ -164,11 +164,28 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 .
 
+
 ------------------------------------
 
 
 
+.
+
+
 > ## Third course : [Excel Statistics Essential Training: 1](https://www.linkedin.com/learning/excel-statistics-essential-training-1-2/understanding-excel-statistics-functions?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+
+
+
+
+## Course details
+
+## Learning objectives
+
+
+## Skills covered
+
+
+
 
 
 .
@@ -181,18 +198,37 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 
+------------------------------------
+
+
+.
 
 
 > ## Fourth course : [Learning Excel: Data Analysis](https://www.linkedin.com/learning/learning-excel-data-analysis/the-power-of-data-analysis-using-excel?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
+
+## Course details
+
+## Learning objectives
+
+
+## Skills covered
+
+
 .
+
 
 
 > ![Learning Excel_ Data Analysis](https://user-images.githubusercontent.com/36210723/107838530-eb0a7400-6dae-11eb-9165-365e26b03ba4.png)
 
 
 
+
+
+.
+
+------------------------------------
 
 
 .
@@ -209,6 +245,11 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 .
 
+------------------------------------
+
+
+.
+
 
 
 > ##  Sixth  course : [Power BI Essential Training](https://www.linkedin.com/learning/power-bi-essential-training-3/create-rich-interactive-reports-with-power-bi?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
@@ -218,6 +259,11 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 .
 
 > ![Power BI Essential Training](https://user-images.githubusercontent.com/36210723/107838529-e645c000-6dae-11eb-98c9-0d66909bbaaa.png)
+
+
+.
+
+------------------------------------
 
 
 .
