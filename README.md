@@ -238,6 +238,15 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 > ## Fifth course: [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-3/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
 
+
+## Course details
+
+## Learning objectives
+
+
+## Skills covered
+
+
 .
 
 > ![Learning Data Visualization](https://user-images.githubusercontent.com/36210723/107838532-ec3ba100-6dae-11eb-919e-0be1c30c0df4.png)
@@ -253,6 +262,14 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 
 > ##  Sixth  course : [Power BI Essential Training](https://www.linkedin.com/learning/power-bi-essential-training-3/create-rich-interactive-reports-with-power-bi?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
+
+
+## Course details
+
+## Learning objectives
+
+
+## Skills covered
 
 
 
@@ -272,6 +289,15 @@ Data analysis isn’t just for specialists who need to make sense of massive dat
 
 > ##  Seventh course : [Tableau Essential Training (2020.1)](https://www.linkedin.com/learning/tableau-essential-training-2020-1/apply-the-power-of-tableau-2020-to-your-data?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ec59c4a498e70845153bbc5)
 
+
+
+
+## Course details
+
+## Learning objectives
+
+
+## Skills covered
 
 
 
