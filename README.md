@@ -287,10 +287,34 @@ Microsoft Excel is an important tool for data analysis. It helps companies accur
 
 ## Course details
 
+Got a big idea? You need to get it across quickly and efficiently, or modern audiences will move on to the next story clamoring for their attention. Data visualization allows you to make the complex simple, the abstract tangible, and the invisible (data) visible with great illustrations. In this course, Bill Shander shows how to understand your data and your audience, craft the story you need to tell, and determine the best visual model and details to use for that story.
+
+
+
+
 ## Learning objectives
 
 
+- Describe the process by which individuals’ interests are incorporated into data visualizations.
+
+- Differentiate the use of the Ws in data visualization.
+
+- Explain techniques involved in defining your narrative when visualizing data.
+
+- Identify the factors that make data visualizations relatable to an audience’s interests and needs.
+
+- Review the appropriate use of charts in data visualizations.
+
+- Define the process involved in applying interactivity to data visualizations.
+
+
+
+
 ## Skills covered
+
+
+- Data Visualization
+
 
 
 .
@@ -299,6 +323,7 @@ Microsoft Excel is an important tool for data analysis. It helps companies accur
 
 
 .
+
 
 ------------------------------------
 
