@@ -2,14 +2,30 @@
 .
 
 
+
+
 # [Become a Data Analyst](https://www.linkedin.com/learning/paths/become-a-data-analyst)
 
 
-#  ![data.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612272683/data.png)
 
 
 
 Data analysts examine information using data analysis tools and help their teams develop insights and business strategies. You’ll need skills in math, statistics, communications, and working with tools designed to do data analytics and data visualization. Explore this high-demand career.
+
+
+
+- Learn the technical skills for data analyst career paths.
+
+- Develop your competencies in high-demand analysis tools.
+
+- Build communication, teamwork, and problem-solving skills.
+
+
+
+>   ![data.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612272683/data.png)
+
+
+
 
 
 
